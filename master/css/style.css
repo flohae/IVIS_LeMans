@@ -7,7 +7,7 @@ body, html {
     background-size: cover;
     background-repeat: repeat;
     background-position: center;
-    background-image: url("../img/leMans.jpg");
+    background-image: url("../src/img/leMans.jpg");
     background-color: #ffffff;
     zoom: 90%;
 }
